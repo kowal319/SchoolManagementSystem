@@ -1,0 +1,6 @@
+#FileLock
+#Wed Jul 19 21:25:51 CEST 2023
+hostName=Lenovo-PC
+id=1896f9d9bafa862a6c940ff1fb76292266b8abfd06e
+method=file
+server=192.168.99.1\:53616
